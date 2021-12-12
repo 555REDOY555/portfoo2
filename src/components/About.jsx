@@ -7,9 +7,7 @@ const About = () => {
                <p className="tag font-bold">&lt;h1/&gt;</p>
                <p className="tag font-bold mt-2">&lt;p&gt;</p>
                 <p className="text-lg text-white lg:text-xl">
-                Hello!, I'm Jaydeep Hindurao Shelake I'm second year undergraduate Mechanical Engineering student @ RIT by degree and also a Full Stack Web Developer by passion. Always busy and ready to learn new things and improving skills day by day
-
-                Experienced in building modern Web apps, PWA and Single Page Applications.
+                Hello!, I'm Abu Kayum Redoy I'm a student @ CPSCR  and also a Full Stack Web Developer . Always busy and ready to learn new things and improving skills day by day
 
                 Also experienced in working at server-side Development with REST API , Node.JS and Express.JS
                 </p>

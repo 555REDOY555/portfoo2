@@ -60,8 +60,8 @@ const Banner = (props) => {
             
             <div className="flex items-center justify-content-center">
             <h1 className="text-4xl  font-bold text-white mr-2   lg:text-6xl">I'm</h1>
-                <img className="j mb-4" src="https://jacekjeznach.com/wp-content/themes/new/img/logo.png" alt="" />
-            <h1 style={{whiteSpace:'nowrap'}} className="text-4xl font-bold text-white  lg:text-6xl">aydeep,</h1>
+               
+            <h1 style={{whiteSpace:'nowrap'}} className="text-4xl font-bold text-white  lg:text-6xl">Redoy,</h1>
             </div>
             <h1 className="text-4xl  font-bold text-white  lg:text-6xl">{
                 <ReactTypingEffect

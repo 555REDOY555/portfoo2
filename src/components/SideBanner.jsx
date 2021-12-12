@@ -14,8 +14,7 @@ const SideBanner = (props) => {
     return (
         <div className={`side-bar flex items-center flex-col justify-start fixed  w-32 top-0 left-0 ${props.open.open&& 'down'}`}>
             <div className="logo flex items-center flex-col justify-center bg-black w-full py-3">
-                <img className="j" src="https://jacekjeznach.com/wp-content/themes/new/img/logo.png" alt="jaydeep" />
-                <h1 className="text-white text-base	">Jaydeep</h1>
+                <h1 className="text-white text-base	">Redoy</h1>
                 <h1 style={{color:'gray'}} className="text-xs">Web developer</h1>
             </div>
             <div className="flex items-center flex-col w-full mt-6">
@@ -27,9 +26,8 @@ const SideBanner = (props) => {
                 ))
               }
               <div className="social flex py-2">
-                <a href="https://github.com/jaydeep-shelake"><FaGithubAlt className="icon "/></a>
-                <a href="https://instagram.com/jaydeep_shelake101"><AiFillInstagram className="icon"/></a>
-                <a href="https://www.linkedin.com/in/jaydeep-shelake-a348771b2"><AiFillLinkedin className="icon"/></a>
+                <a href="https://github.com/555REDOY555"><FaGithubAlt className="icon "/></a>
+                <a href="https://www.linkedin.com/in/abu-kayum-redoy-7343b5216/"><AiFillLinkedin className="icon"/></a>
               </div>
             </div>
             <div className="times absolute top-6 right-10"

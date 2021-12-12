@@ -27,47 +27,24 @@ const Project = () => {
             <p className="tag font-bold">&lt;/h1&gt;</p>
             <p className="tag font-bold mt-2">&lt;p&gt;</p>
             <p data-aos="fade-up"  className="text-lg text-white">A small gallery of recent projects done by me. I've done them all myself and some with a team. It's only a drop in the ocean compared to the entire list.
-Interested to see some more? Visit my <a className="primary-text" href="https://github.com/jaydeep-shelake">github page </a>.
+Interested to see some more? Visit my <a className="primary-text" href="https://github.com/555REDOY555">github page </a>.
 
 </p>
 <p className="tag font-bold">&lt;/p&gt;</p>
             <div className="project-card-area flex flex-wrap item-center" style={{justifyContent:"space-evenly"}}>
-              <ProjectCard title="Google Drive Clone"
-              text="A drive like app build on react redux and firebase"
-              github="ReactGoogleDriveClone"
-              live="https://driveclone-6e9ac.web.app/"
+              <ProjectCard title="Dream Car"
+              text="A web site build on react  and firebase"
+              github="Cars"
+              live="https://cars-a30a7.web.app/"
               data="fade-left"
               />
-              <ProjectCard title="Netflix Clone"
-              text="A Netflix clone app build on top react redux and firebase"
-              github="ReactNetflixClone"
-              live="https://netflixreactclone-93749.web.app/"
+              <ProjectCard title="Tour and Go"
+              text="A website build on top react and firebase"
+              github="Tour-And-Go"
+              live="https://tour-go-b9d6b.web.app/"
               data="fade-up"
               />
-              <ProjectCard title="Story JS"
-              text="Story posting app made using NodeJS materialize css..."
-              github="Story.js"
-              live=""
-              data="fade-right"
-              />
-              <ProjectCard title="Amazon Clone"
-              text="A E-commerce app build on NextJS redux and firebase"
-              github="NextJSAmazonClone"
-              live="https://next-jsa-mazon-clone.vercel.app/"
-              data="fade-left"
-              />
-              <ProjectCard title="Pizza Dilevery app"
-              text="A Pizza Delevery system made on NodeJS.,Express and MongoDB"
-              github="PizzaDelivery"
-              live=""
-              data="fade-up"
-              />
-              <ProjectCard title="College Sarthi"
-              text="internship project where I worked with team on Exam portal website "
-
-              live="https://collegesarathi.com/"
-              data="fade-right"
-              />
+              
             </div>
         </div>
     )
