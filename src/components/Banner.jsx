@@ -65,7 +65,7 @@ const Banner = (props) => {
             </div>
             <h1 className="text-4xl  font-bold text-white  lg:text-6xl">{
                 <ReactTypingEffect
-                text={["Web developer", "Mechanical Engineer"]}
+                text={["Web developer"]}
               />
                }</h1>
             <p className="tag font-bold">&lt;h1/&gt;</p>
